@@ -9,7 +9,7 @@ import { LuBrainCircuit } from "react-icons/lu";
 export { logo, circleImg, moonShapeImg };
 
 export const companyDetails = {
-  email: "abc@example.com",
+  email: "kolta.technologies@gmail.com",
   location: "Flat 304/B, Telco Colony , Lane 5 , Ambegaon BK , Pune - 411046",
   phone: "919604042725",
   whatsapp: "https://wa.me/919604042725",
